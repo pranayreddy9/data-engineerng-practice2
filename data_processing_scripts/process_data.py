@@ -1,3 +1,0 @@
-x = 'pranay'
-
-print(x)
