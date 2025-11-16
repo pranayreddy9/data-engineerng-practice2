@@ -1,0 +1,4 @@
+payment_id,order_id,amount,method
+501,1001,1500,Card
+502,1002,150,Card
+503,1003,1200,Cash
